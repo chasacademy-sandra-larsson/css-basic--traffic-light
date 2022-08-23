@@ -7,6 +7,8 @@ Bra att kunna inför övningen:
   - CSS enheter pixlar och %
   - Extra: Skillnadenn mellan box-sizing: content-box vs border-box
 
+## Tillvägagångssätt
+
 1. Använd HTML och CSS för att skapa trafikljuset enligt denna bild. Använd en extern stilmall.
 
 ![This is an image](https://github.com/chasacademy-sandra-larsson/css-basic--traffic-light/blob/main/CSS-trafficlight.png)
