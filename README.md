@@ -1,6 +1,6 @@
 # Instruktioner för Övning: CSS Trafikljuset
 
-Bra att kunna inför övningen:
+Bra att kunna:
   - HTML/CSS-kunskaper för att använda klass-selektorn för styling
   - Kännedom hur block-element visar per default
   - Kunskaper om CSS Boxmodellen. 
