@@ -4,7 +4,7 @@ För övningen ska du ha HTML/CSS-kunskaper för att använda klass-selektorn f�
 
 1. Använd HTML och CSS för att skapa trafikljuset enligt denna bild. Använd en extern stilmall.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/chasacademy-sandra-larsson/css-basic--traffic-light/blob/main/CSS-trafficlight-bonus.png)
 
 2. Bygg vidare på trafikljuset enligt denna bild.
 
