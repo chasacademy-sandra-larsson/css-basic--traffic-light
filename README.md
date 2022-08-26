@@ -17,11 +17,9 @@ Bra att kunna:
 
 ![This is an image](https://github.com/chasacademy-sandra-larsson/css-basic--traffic-light/blob/main/CSS-trafficlight-bonus.png)
 
-***Notera***: Det handlar om att bygga ett trafikljus. Det behöver inte vara exakt bredd/kant eller färgval utifrån bilder.
+*Notera*: Det handlar om att bygga ett trafikljus. Det behöver inte vara exakt bredd/kant eller färgval utifrån bilder.
 
-## Resurs
-- [MDN The Box Modell](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
-- Eller Googla om boxmodellen :-)
+
 
 
 
