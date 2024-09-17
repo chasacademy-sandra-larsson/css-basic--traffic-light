@@ -3,9 +3,9 @@
 Arbeta 2 och 2. Redovisa er lösning i tvärgrupp. 
 
 Bra att kunna:
-  - HTML/CSS-kunskaper för att använda klass-selektorn för styling
-  - Kännedom hur block-element visar per default
-  - Kunskaper om CSS Boxmodellen. 
+  - Grundläggande HTML/CSS
+  - CSS selektor för class och arv
+  - CSS Boxmodellen. 
   - CSS enheter pixlar och %
   - Skillnaden mellan box-sizing: content-box vs border-box
 
