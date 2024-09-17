@@ -1,4 +1,4 @@
-# Workshopuppgift: CSS Trafikljuset
+# Workshop-uppgift: CSS Trafikljuset
 
 Arbeta 2 och 2. Redovisa er lösning i tvärgrupp. 
 
