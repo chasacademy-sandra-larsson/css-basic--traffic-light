@@ -1,13 +1,13 @@
-# Instruktioner för Övning: CSS Trafikljuset
+# Workshopuppgift: CSS Trafikljuset
 
-Arbeta 2 och 2 med 1) och 2) nedan. Redovisa er lösning i tvärgrupp. 
+Arbeta 2 och 2. Redovisa er lösning i tvärgrupp. 
 
 Bra att kunna:
   - HTML/CSS-kunskaper för att använda klass-selektorn för styling
   - Kännedom hur block-element visar per default
   - Kunskaper om CSS Boxmodellen. 
   - CSS enheter pixlar och %
-  - Extra: Skillnaden mellan box-sizing: content-box vs border-box
+  - Skillnaden mellan box-sizing: content-box vs border-box
 
 ## Tillvägagångssätt
 
