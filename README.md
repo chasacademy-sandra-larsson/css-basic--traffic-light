@@ -1,6 +1,6 @@
 # Workshop-uppgift: CSS Trafikljuset
 
-Arbeta 2 och 2. Redovisa er lösning i tvärgrupp. 
+Ta hjälp av varandra i teamet för att lösa uppgiften. . 
 
 Bra att kunna:
   - Grundläggande HTML/CSS
