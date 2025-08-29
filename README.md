@@ -1,4 +1,4 @@
-# Workshop-uppgift: CSS Trafikljuset
+# 👩🏽‍💻 Workshop-uppgift: CSS Trafikljuset
 
 Ta hjälp av varandra i teamet för att lösa uppgiften. . 
 
@@ -9,7 +9,7 @@ Bra att kunna:
   - CSS enheter pixlar och %
   - Skillnaden mellan box-sizing: content-box vs border-box
 
-## Tillvägagångssätt
+## ⚙️ Instruktioner
 
 1. Använd HTML och CSS för att skapa trafikljuset enligt denna bild. Använd en extern stilmall.
 
